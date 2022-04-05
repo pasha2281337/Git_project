@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<?AutomationStudio Version=3.0?>
+<Project xmlns="http://br-automation.co.at/AS/Project"><Active ID="0"/><Configuration Name="Config1"/><ConfigurationFiles xmlns="" ConfigurationName="Config1" ActiveConfigurationFile="\Physical\Config1\4PP065_0571_P74\Cpu.sw"><ConfigurationFile Placement="\Virtual\laba1KRBO0221.ose,,0,44,0,1,-1,-1,-1,-1,2,24,1119,676"/><ConfigurationFile Placement="\Physical\Config1\4PP065_0571_P74\Cpu.sw,,1,44,0,1,-1,-1,-1,-1,2,24,1119,676"/></ConfigurationFiles></Project>

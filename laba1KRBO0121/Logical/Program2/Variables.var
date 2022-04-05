@@ -1,0 +1,3 @@
+VAR
+	Led_2 : BOOL;
+END_VAR
